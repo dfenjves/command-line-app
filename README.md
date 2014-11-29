@@ -1,0 +1,1 @@
+## Check out the code in `movie-recommender.rb` for a sample command line application for HS Hack Night. Students should get comfortable using if statements, puts, gets.chomp, and variables.
